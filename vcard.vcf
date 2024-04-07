@@ -1,0 +1,10 @@
+vcard.vcf
+BEGIN:VCARD
+VERSION:3.0
+FN:Thibault Caballero
+ORG:Propweb
+TITLE:Business Manager & Web Specialist
+TEL;TYPE=WORK,VOICE:(657) 266 - 4598
+EMAIL;TYPE=PREF,INTERNET:thibault@propweb.co
+URL:www.propweb.co
+END:VCARD
